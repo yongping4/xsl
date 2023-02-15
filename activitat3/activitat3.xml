@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="activitat3.xsl"?>
+<catalog>
+  <peli>
+    <titulo>Avengers:Endgame</titulo>
+    <genero>Ciencia ficcion</genero>
+    <pais>USA</pais>
+    <duracion>3 hora 2 minutos</duracion>
+    <estreno>2019</estreno>
+    <puntuacion>7,3/10</puntuacion>
+  </peli>
+  <peli>
+    <titulo>La Tierra errante</titulo>
+    <genero>Ciencia ficcion</genero>
+    <pais>CHN</pais>
+    <duracion>2 horas 5 minutos</duracion>
+    <estreno>2019</estreno>
+    <puntuacion>4,8/10</puntuacion>
+  </peli>
+  <peli>
+    <titulo>La teorica del todo</titulo>
+    <genero>Drama</genero>
+    <pais>USA</pais>
+    <duracion>2 horas 3 minutos</duracion>
+    <estreno>2014</estreno>
+    <puntuacion>7/10</puntuacion>
+  </peli>
+  <peli>
+    <titulo>Garra</titulo>
+    <genero>Deportes</genero>
+    <pais>USA</pais>
+    <duracion>1 hora 57 minutos</duracion>
+    <estreno>2022</estreno>
+    <puntuacion>6,2/10</puntuacion>
+  </peli>
+</catalog>

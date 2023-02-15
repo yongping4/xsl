@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="activitat2.xsl"?>
+<catalog>
+  <peli>
+    <titulo>Avengers:Endgame</titulo>
+    <genero>Ciencia ficcion</genero>
+    <pais>USA</pais>
+    <duracion>3 hora 2 minutos</duracion>
+  </peli>
+  <peli>
+    <titulo>La Tierra errante</titulo>
+    <genero>Ciencia ficcion</genero>
+    <pais>CHN</pais>
+    <duracion>2 horas 5 minutos</duracion>
+  </peli>
+  <peli>
+    <titulo>La teorica del todo</titulo>
+    <genero>Drama</genero>
+    <pais>USA</pais>
+    <duracion>2 horas 3 minutos</duracion>
+  </peli>
+  <peli>
+    <titulo>Garra</titulo>
+    <genero>Deportes</genero>
+    <pais>USA</pais>
+    <duracion>1 hora 57 minutos</duracion>
+  </peli>
+</catalog>
